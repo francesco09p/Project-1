@@ -24,6 +24,22 @@ The project is structured as a static web application designed to ensure a smoot
 ---
 
 ## 📂 Repository Structure
+```text
+Project-1/
+├── font/
+│   └── Mulish-VariableFont_wght.ttf  # Local custom typeface
+├── img/
+│   ├── io.jpg                        # Profile section graphic resource
+│   ├── progetti.jpg                  # Project box graphic resource
+│   ├── project1.jpg                  # Project preview image
+│   └── me.jpeg                       # Personal photo 
+├── index.html                        # Homepage / Main page
+├── page2.html                        # Information / About section
+├── page3.html                        # Showcase / Projects gallery
+└── style.css                         # Main CSS stylesheet
 
+
+
+## 💻 Site
 ```bash
-   git clone [https://github.com/francesco09p/Project-1.git](https://github.com/francesco09p/Project-1.git)
+   www.
