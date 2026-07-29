@@ -1,25 +1,23 @@
 # 🌐 Web Project - Project 1
 
-This repository contains the source code for Project 1, a multi-page responsive website built with pure HTML5 and CSS3. 
-
-The project is structured as a static web application designed to ensure a smooth, modern, and clean navigation experience.
+This repository contains the source code for Project 1, a multi-page responsive website built with pure HTML and CSS. 
 
 ---
 
-## 🛠️ Technical Features & Functionalities
+## 🛠️ attributes used
 
 * Sticky Navigation: A top-anchored navigation menu (position: sticky) that remains visible while scrolling.
 * Flexible Layout (Flexbox): Dynamic arrangement of elements and containers to guarantee precise, clean alignment.
-* CSS Micro-interactions: Zoom and smooth transition effects (transition: transform, :hover, scale) applied to clickable elements and links.
+* CSS Animation: Zoom and smooth transition effects (transition: transform, :hover, scale) applied to clickable elements and links.
 * Backgrounds & Images: Combined use of CSS gradients (linear-gradient) along with image handling using background-size: cover and object-fit.
-* Custom Typography: Integration of local external fonts using the @font-face rule.
+* Custom Fonts: Integration of local external fonts.
 
 ---
 
-## 💻 Technologies Used
+## 💻 Tools Used
 
-* HTML5: Semantic markup for the web page structure.
-* CSS3: Styling, layout management, animations, and typography.
+* HTML: for the structure of site.
+* CSS: for the style.
 
 ---
 
