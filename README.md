@@ -4,7 +4,7 @@ This repository contains the source code for Project 1, a multi-page responsive 
 
 ---
 
-## 🛠️ attributes used
+## 🛠️ Attributes used
 
 * Sticky Navigation: A top-anchored navigation menu (position: sticky) that remains visible while scrolling.
 * Flexible Layout (Flexbox): Dynamic arrangement of elements and containers to guarantee precise, clean alignment.
