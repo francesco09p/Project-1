@@ -1,40 +1,32 @@
-# 🌐 Web Project - Project 1
+# Web Project 1
 
-This repository contains the source code for Project 1, a multi-page responsive website built with pure HTML and CSS. 
+This repo contains the code for "Project 1", a multi-page responsive website built entirely with plain HTML and CSS—no external frameworks used.
 
----
+## Key Features
 
-## 🛠️ attributes used
+* **Sticky Navbar:** The navigation menu stays pinned to the top of the screen as you scroll (`position: sticky`).
+* **Flexbox Layouts:** Used Flexbox to keep elements aligned cleanly and responsive across different screen sizes.
+* **CSS Animations:** Added smooth transitions and zoom effects on `:hover` states to make links and clickable elements feel more dynamic.
+* **Backgrounds & Images:** A mix of CSS gradients (`linear-gradient`) and image handling using `background-size: cover` and `object-fit` to keep visuals looking sharp.
+* **Custom Fonts:** Integrated the "Mulish" typeface, loaded directly from local files.
 
-* Sticky Navigation: A top-anchored navigation menu (position: sticky) that remains visible while scrolling.
-* Flexible Layout (Flexbox): Dynamic arrangement of elements and containers to guarantee precise, clean alignment.
-* CSS Animation: Zoom and smooth transition effects (transition: transform, :hover, scale) applied to clickable elements and links.
-* Backgrounds & Images: Combined use of CSS gradients (linear-gradient) along with image handling using background-size: cover and object-fit.
-* Custom Fonts: Integration of local external fonts.
+## Tech Stack
 
----
+* **HTML5** for the structure
+* **CSS3** for the styling
 
-## 💻 Tools Used
+## Repo Structure
 
-* HTML: for the structure of site.
-* CSS: for the style.
-
----
-
-## 📂 Repository Structure
 ```text
 Project-1/
 ├── font/
-│   └── Mulish-VariableFont_wght.ttf  # Local custom typeface
+│   └── Mulish-VariableFont_wght.ttf  # Locally hosted font
 ├── img/
-│   ├── io.jpg                        # Profile section graphic resource
-│   ├── progetti.jpg                  # Project box graphic resource
+│   ├── io.jpg                        # Profile section graphic
+│   ├── progetti.jpg                  # Project box graphic
 │   ├── project1.jpg                  # Project preview image
 │   └── me.jpeg                       # Personal photo 
-├── index.html                        # Homepage / Main page
-├── page2.html                        # Information / About section
-├── page3.html                        # Showcase / Projects gallery
-└── style.css                         # Main CSS stylesheet
-
-
-
+├── index.html                        # Homepage
+├── page2.html                        # About page
+├── page3.html                        # Portfolio / Projects page
+└── style.css                         # Main stylesheet
